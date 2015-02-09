@@ -1,0 +1,21 @@
+C:\Users\Juli\Documents\GitHub\Combat_Simulator\Combat_Simulator\bin\Debug\Combat_Simulator.exe.config
+C:\Users\Juli\Documents\GitHub\Combat_Simulator\Combat_Simulator\obj\Debug\Combat_Simulator.csprojResolveAssemblyReference.cache
+C:\Users\Juli\Documents\GitHub\Combat_Simulator\Combat_Simulator\bin\Debug\Combat_Simulator.exe
+C:\Users\Juli\Documents\GitHub\Combat_Simulator\Combat_Simulator\bin\Debug\Combat_Simulator.pdb
+C:\Users\Juli\Documents\GitHub\Combat_Simulator\Combat_Simulator\obj\Debug\Combat_Simulator.exe
+C:\Users\Juli\Documents\GitHub\Combat_Simulator\Combat_Simulator\obj\Debug\Combat_Simulator.pdb
+<<<<<<< HEAD
+C:\Users\Juli\Documents\GitHub\CombatSimulator\Combat_Simulator\bin\Debug\Combat_Simulator.exe.config
+C:\Users\Juli\Documents\GitHub\CombatSimulator\Combat_Simulator\obj\Debug\Combat_Simulator.exe
+C:\Users\Juli\Documents\GitHub\CombatSimulator\Combat_Simulator\obj\Debug\Combat_Simulator.pdb
+C:\Users\Juli\Documents\GitHub\CombatSimulator\Combat_Simulator\bin\Debug\Combat_Simulator.exe
+C:\Users\Juli\Documents\GitHub\CombatSimulator\Combat_Simulator\bin\Debug\Combat_Simulator.pdb
+C:\Users\Juli\Documents\GitHub\CombatSimulator\Combat_Simulator\obj\Debug\Combat_Simulator.csprojResolveAssemblyReference.cache
+=======
+C:\Users\Technologist\Documents\GitHub\CombatSimulator\Combat_Simulator\bin\Debug\Combat_Simulator.exe.config
+C:\Users\Technologist\Documents\GitHub\CombatSimulator\Combat_Simulator\obj\Debug\Combat_Simulator.exe
+C:\Users\Technologist\Documents\GitHub\CombatSimulator\Combat_Simulator\obj\Debug\Combat_Simulator.pdb
+C:\Users\Technologist\Documents\GitHub\CombatSimulator\Combat_Simulator\bin\Debug\Combat_Simulator.exe
+C:\Users\Technologist\Documents\GitHub\CombatSimulator\Combat_Simulator\bin\Debug\Combat_Simulator.pdb
+C:\Users\Technologist\Documents\GitHub\CombatSimulator\Combat_Simulator\obj\Debug\Combat_Simulator.csprojResolveAssemblyReference.cache
+>>>>>>> origin/master

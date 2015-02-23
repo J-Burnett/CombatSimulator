@@ -35,7 +35,7 @@ namespace CombatSimulator
             //keeps game open
             while (gamePlay)
             {
-                //prints game name
+                //prints game name  
                 gameName();
 
                 //introduces game to player
@@ -51,7 +51,7 @@ namespace CombatSimulator
         Steal your Snacky Cakes from your bag.
 
         You now have to battle the panda in order to retrieve your
-        delicious Snacky Cakes!", 40);
+        delicious Snacky Cakes!", 50);
 
             //continue reading about the game
             Console.ReadLine();
@@ -73,7 +73,7 @@ namespace CombatSimulator
 
         Press 4 to try and escape the habitat. It's not certain you
         will succeed, but if you do, you will win a lifetime supply
-        of Snacky Cakes and save your life.", 40);
+        of Snacky Cakes and save your life.", 50);
 
             //allows them to start playing the game
             Console.ReadLine();
@@ -87,7 +87,7 @@ namespace CombatSimulator
 
         The panda can cause damage to you by farting, rolling over you,
         and tickling you back. HOWEVER, it is a panda, so his attacks
-        only succeed 80% of the time.", 40);
+        only succeed 80% of the time.", 50);
 
             //allows them to start playing the game
             Console.ReadLine();
@@ -239,8 +239,7 @@ Player's HP: {0}                                                 Panda's HP: {1}
                     Console.Clear();
                     gameHeading();
                     Console.ForegroundColor = ConsoleColor.Yellow;
-                    //otherwise, player missed
-                    Console.WriteLine("                      Oh no! Your tickles weren't successful!");
+                   
                 }
             }
             //if player chooses magic
